@@ -1,10 +1,15 @@
 # PatientOnboardingApp_Web
 
 ## Result (Home Page) :
-![](https://github.com/Na-veed/Patient-OnBoarding-Angular/blob/master/src/assets/home.JPG)
+![]()
 ## Note :
   This project is only spring project and please find related angular project [here](https://github.com/PavanSaiSheshetti/PatientOnboardingApp_Angular). You will find complete 
   description of running project in Installation and Run Section
+
+## Technologies Used:
+
+Java, Angular, SpringBoot, Spring Data, PostgreSql, JSON
+
 ## Overview:
 
 <p> Title of our application is patient on-boarding app</p>
@@ -71,7 +76,8 @@ That's all you can run this project and see the results.
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/PavanSaiSheshetti/PatientOnboardingApp_Web/issues/new) by including your search query and the expected result.
 
 
-## Technologies Used:
 
-Java, Angular, SpringBoot, Spring Data, PostgreSql, JSON
+## Contributing
+- This is a group project, our team-size is of 6-members.
+- Each member of our team has been worked on 2-3 story-points.
 
