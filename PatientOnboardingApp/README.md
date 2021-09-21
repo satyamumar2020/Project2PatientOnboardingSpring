@@ -1,9 +1,9 @@
 # PatientOnboardingApp_Web
 
 ## Result (Home Page) :
-![](https://github.com/Na-veed/Patient-OnBoarding-Angular)
+![]()
 ## Note :
-  This project is only spring project and please find related angular project [here](https://github.com/PavanSaiSheshetti/PatientOnboardingApp_Angular). You will find complete 
+  This project is only spring project and please find related angular project [here](https://github.com/satyamumar2020/Project-2-AngularPatientOnboarding.git). You will find complete 
   description of running project in Installation and Run Section
 
 ## Technologies Used:
@@ -50,7 +50,7 @@ Java, Angular, SpringBoot, Spring Data, PostgreSql, JSON
 
 ## Working Procedure of model:
 
-After running this project , run the angular project (import angular project [here](https://github.com/PavanSaiSheshetti/PatientOnboardingApp_Angular)). Homw page will be displayed where you can see the about and facilities section about the hospital. And also customer can register and login, Doctor and admin can login.
+After running this project , run the angular project (import angular project [here](https://github.com/satyamumar2020/Project-2-AngularPatientOnboarding.git)). Homw page will be displayed where you can see the about and facilities section about the hospital. And also customer can register and login, Doctor and admin can login.
 
 Customer can make an appointment with the specified doctor after login, and can view and update profile, Also buy medicine. Dotor can view his/her appointments, can also allocate medicines. Admin can add doctor, medicines and have control over the whole functionalities
 
@@ -61,7 +61,7 @@ Import this project by a Github Desktop(click [here](https://desktop.github.com/
 change the database configuration in application.properties file (Driver,Dialect,username and password).
 
 ### Step2 :
-Import the angular Project (find [here](https://github.com/PavanSaiSheshetti/PatientOnboardingApp_Angular))by a Github Desktop or by downloading the Zip file. If you downloaded the zip file then you need to unzip or extract it and open the project folder in visual studio code or any other code editor(file-->select folder-->select the project)
+Import the angular Project (find [here](https://github.com/satyamumar2020/Project-2-AngularPatientOnboarding.git))by a Github Desktop or by downloading the Zip file. If you downloaded the zip file then you need to unzip or extract it and open the project folder in visual studio code or any other code editor(file-->select folder-->select the project)
 
 That's all you can run this project and see the results.
 
@@ -73,11 +73,11 @@ That's all you can run this project and see the results.
 
 ## Bug / Feature Request:
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/PavanSaiSheshetti/PatientOnboardingApp_Web/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/satyamumar2020/Project-2-AngularPatientOnboarding.git) by including your search query and the expected result.
 
 
 
 ## Contributing
-- This is a group project, our team-size is of 6-members.
+- This is a group project, our team-size is of 5-members.
 - Each member of our team has been worked on 2-3 story-points.
 
